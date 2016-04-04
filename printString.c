@@ -1,12 +1,13 @@
 #include <stdio.h>
 
-main()
+int main()
 {
     char myStr[100];
     
     printf("Enter the string: \n");
     gets(myStr);
     
-    printf("Here is what you have input: \n%s", myStr);
+    printf("Here is what you have input: \n%s\n", myStr);
     
+    return 0;
 }
