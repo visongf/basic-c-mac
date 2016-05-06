@@ -8,6 +8,8 @@ int main()
     gets(myStr);
     
     printf("Here is what you have input: \n%s\n", myStr);
+
+    printf("Program ends");
     
     return 0;
 }
