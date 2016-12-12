@@ -1,2 +1,2 @@
 # basic-c-mac
-A very very very basic C application on Mac OS
+A VERY very very very basic C application on Mac OS
